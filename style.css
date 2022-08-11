@@ -8,15 +8,13 @@ body{
 }
 
 
-
-
-
 .container{
     width: 460px;
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 100px;
 }
+
 
 .box{
     width: 150px;
@@ -25,6 +23,8 @@ body{
     margin: 1px;
     border-radius: 10px;
 }
+
+
 .box:hover{
     background-color: aqua;
 }
